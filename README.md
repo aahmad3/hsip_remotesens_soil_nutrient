@@ -14,3 +14,9 @@ Use python libs to create more complicated CNN (Deep Learning Model) for the sam
 Develop a GUI to pull image from earthexplorer, give NPK values for a given (latitude,longitude)
 
 -----------------------------------------------------------------------------------------------------
+
+Contact Info.
+
+abdullah.engg.amu@gmail.com
+
+iotlab.weebly.com
